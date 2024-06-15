@@ -6,3 +6,4 @@ alguna manera, ya sea porque se le agregó humor, o palabras aleatorias que no p
    Internet. Usa un diccionario de mas de 200 palabras provenientes del latín, combinadas con estructuras muy 
    útiles de sentencias, para generar texto de Lorem Ipsum que parezca razonable. Este Lorem Ipsum generado 
    siempre elfoá libre de repeticiones, humor agregado o palabras no características del lenguaje, etc.
+   CAMBIO DE LA NUEVA RAMA
